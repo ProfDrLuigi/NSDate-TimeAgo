@@ -17,8 +17,8 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "NSDate-TimeAgo",
-            path: "Classes"
+            name: "Wired Client",
+            path: "Sources"
         )
     ]
 )
